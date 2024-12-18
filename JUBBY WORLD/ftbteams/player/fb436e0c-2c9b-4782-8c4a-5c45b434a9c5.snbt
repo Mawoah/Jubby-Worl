@@ -1,0 +1,17 @@
+{
+	id: "fb436e0c-2c9b-4782-8c4a-5c45b434a9c5"
+	type: "player"
+	player_name: "jasminecalia"
+	ranks: {
+		fb436e0c-2c9b-4782-8c4a-5c45b434a9c5: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "jasminecalia"
+		"ftbteams:description": ""
+		"ftbteams:color": "#5F59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

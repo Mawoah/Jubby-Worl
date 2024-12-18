@@ -1,0 +1,15 @@
+{
+	id: "8b367e39-c65b-4bf1-82ba-99690094d591"
+	type: "player"
+	player_name: "jbeelaz"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "jbeelaz"
+		"ftbteams:description": ""
+		"ftbteams:color": "#A359FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

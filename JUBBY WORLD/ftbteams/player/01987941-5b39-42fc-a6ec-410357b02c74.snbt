@@ -1,0 +1,17 @@
+{
+	id: "01987941-5b39-42fc-a6ec-410357b02c74"
+	type: "player"
+	player_name: "mrbenjipoo"
+	ranks: {
+		01987941-5b39-42fc-a6ec-410357b02c74: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "mrbenjipoo"
+		"ftbteams:description": ""
+		"ftbteams:color": "#90FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

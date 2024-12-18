@@ -1,0 +1,17 @@
+{
+	id: "d9733a42-20e0-4288-a324-311d79268fb1"
+	type: "party"
+	owner: "8b367e39-c65b-4bf1-82ba-99690094d591"
+	ranks: {
+		8b367e39-c65b-4bf1-82ba-99690094d591: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#A359FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [{ from: "00000000-0000-0000-0000-000000000000", date: 1734411044608L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"jbeelaz\"}]}" }]
+	extra: { }
+}

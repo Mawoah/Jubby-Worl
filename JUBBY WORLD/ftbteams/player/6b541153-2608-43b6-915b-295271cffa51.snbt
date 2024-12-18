@@ -1,0 +1,17 @@
+{
+	id: "6b541153-2608-43b6-915b-295271cffa51"
+	type: "player"
+	player_name: "kabroongi"
+	ranks: {
+		6b541153-2608-43b6-915b-295271cffa51: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "kabroongi"
+		"ftbteams:description": ""
+		"ftbteams:color": "#C159FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,17 @@
+{
+	id: "4effae5d-b419-463e-8ba6-410c99249cfd"
+	type: "player"
+	player_name: "casualfan0"
+	ranks: {
+		4effae5d-b419-463e-8ba6-410c99249cfd: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "casualfan0"
+		"ftbteams:description": ""
+		"ftbteams:color": "#6C59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
